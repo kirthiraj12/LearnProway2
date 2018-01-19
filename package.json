@@ -1,0 +1,26 @@
+{
+  "name": "kkprolearn",
+  "version": "1.0.0",
+  "description": "to try out the protractor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "karlinkirthi",
+  "license": "ISC",
+  "dependencies": {
+    "protractor": "^5.2.2"
+  },
+  "devDependencies": {
+    "jasmine": "^2.9.0",
+    "karma": "^2.0.0",
+    "karma-cli": "^1.0.1",
+    "karma-coverage-istanbul-reporter": "^1.3.3",
+    "karma-jasmine": "^1.1.1",
+    "karma-phantomjs-launcher": "^1.0.4",
+    "ts-lint": "^4.5.1",
+    "ts-node": "^4.1.0",
+    "typescript": "^2.6.2"
+  }
+}
+
